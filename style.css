@@ -1,0 +1,15 @@
+/* استفاده از فونت در CKEditor */
+
+
+@font-face {
+  font-family: 'yekan';
+  src: url('./yekan/WebYekan.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'BArash';
+  src: url('./fonts/BArash.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
